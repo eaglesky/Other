@@ -84,6 +84,6 @@ int main(int argc, char** argv)
     cout << s2 << ": " << hex_bitcount2(s2) << endl;
     cout << s3 << ": " << hex_bitcount2(s3) << endl;
     cout << s4 << ": " << hex_bitcount2(s4) << endl;
-   
+ 
     return 0;
 }
